@@ -1,10 +1,10 @@
 # Amazon Clone Web Application
 This is a responsive and interactive clone of the Amazon e-commerce platform. It is designed to provide a similar user experience to the actual Amazon website, featuring functionalities such as product viewing, cart management, responsive design, and user authentication. The project aims to demonstrate advanced front-end development skills using HTML, CSS, and JavaScript.
 
-Live Demo
+# Live Demo
 Check out the live version of the Amazon Clone: Amazon Clone Live
 
-Features
+# Features
 Home Page:
 
 Dynamic hero section and product categories.
@@ -32,7 +32,8 @@ Filter products by categories, price range, and popularity (planned).
 Checkout System:
 
 Simulated payment flow using Stripe.js.
-Technologies Used
+
+# Technologies Used
 Frontend:
 
 HTML5
@@ -42,16 +43,15 @@ Icons & Fonts:
 
 Font Awesome for icons
 Google Fonts for typography
-Project Structure
-bash
-Copy code
+
 .
 ├── index.html           # Main HTML file
 ├── style.css            # Main CSS file
 ├── script.js            # JavaScript file
 ├── assets/              # Contains images and static assets
 └── README.md            # Project Documentation
-Installation and Setup
+
+# istallation and Setup
 Follow the steps below to set up and run the project locally:
 
 Clone the Repository:
@@ -66,12 +66,7 @@ Run the Project:
 
 No server setup is required. Just open the HTML file to view the project.
 For a better experience, use a live server extension in your IDE.
-Future Improvements
-Add backend integration for product storage and real-time cart updates.
-Implement user registration and authentication using Node.js and MongoDB.
-Introduce filtering options for products.
-Add sorting options like price and ratings.
-Build an admin panel to manage products and orders.
+
 Screenshots
 1. Home Page
 ![image](https://github.com/user-attachments/assets/1edc7ced-eb0c-4a28-b9de-65226dc17773)
