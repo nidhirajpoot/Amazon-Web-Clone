@@ -48,7 +48,7 @@ Google Fonts for typography
 ├── assets/              # Contains images and static assets
 └── README.md            # Project Documentation
 
-# istallation and Setup
+# installation and Setup
 Follow the steps below to set up and run the project locally:
 
 Clone the Repository:
