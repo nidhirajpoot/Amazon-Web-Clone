@@ -1,9 +1,6 @@
 # Amazon Clone Web Application
 This is a responsive and interactive clone of the Amazon e-commerce platform. It is designed to provide a similar user experience to the actual Amazon website, featuring functionalities such as product viewing, cart management, responsive design, and user authentication. The project aims to demonstrate advanced front-end development skills using HTML, CSS, and JavaScript.
 
-# Live Demo
-Check out the live version of the Amazon Clone: Amazon Clone Live
-
 # Features
 Home Page:
 
